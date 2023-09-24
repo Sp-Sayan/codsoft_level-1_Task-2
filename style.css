@@ -501,7 +501,7 @@
     }
     .navbar{
         top: 0;
-        height: 12vh;
+        height: 8vh;
         width: 100%;
         display: flex;
         justify-content: space-around;
